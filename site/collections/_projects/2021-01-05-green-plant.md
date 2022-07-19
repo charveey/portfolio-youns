@@ -1,7 +1,7 @@
 ---
 date: 2021-01-05 02:20:35
-title: Green Plant
-subtitle: Photography
+title: DÉESSE MAWU
+subtitle: Photographie
 image: /uploads/post1.jpg
 ---
 
