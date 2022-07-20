@@ -2,7 +2,7 @@
 date: 2021-01-05 02:20:35
 title: DÉESSE MAWU
 subtitle: Photographie
-image: /uploads/post1.jpg
+image: /images/project-9.jpg
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
