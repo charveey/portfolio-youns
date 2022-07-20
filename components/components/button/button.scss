@@ -45,13 +45,13 @@
       opacity: 0;
       will-change: transform;
       transition: opacity 0.35s;
-      background: linear-gradient(90deg, $primary-color 0%, $secondary-color 107%);
+      background: $dark;
     }
   }
 
   &--secondary {
     color: $text-color;
-    background: $background-color-alt;
+    background: $dark;
 
     &:hover {
       color: $text-color;
