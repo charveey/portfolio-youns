@@ -3619,7 +3619,7 @@
           <form class="{{c}}__form validate" action="//{{ include.newsletter_identifier }}"
             method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="{{c}}__form-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Your email address">
+            <input class="{{c}}__form-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Votre addresse e-mail">
             <button class="c-button c-button--primary c-button--large" id="membedded-subscribe" type="submit" name="subscribe">{{ include.newsletter_button }}</button>
           </form>
 
