@@ -22,8 +22,8 @@
   }
 
   &--primary {
-    color: $white;
-    background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
+    color: $gray;
+    background: $dark;
 
     &:hover {
       color: $white !important;
@@ -50,7 +50,7 @@
   }
 
   &--secondary {
-    color: $text-color;
+    color: $gray;
     background: $dark;
 
     &:hover {
