@@ -1,15 +1,11 @@
 footer_menu__settings:
   menu__items:
-    - title: Home
+    - title: Acceuil
       url: /
-    - title: Projects
+    - title: Projets
       url: /projects/
-    - title: Elements
-      url: /elements/
-    - title: About
+    - title: A Propos
       url: /about/
-    - title: Blog
-      url: /blog/
 copyright_text_html: >-
   <p>2022 &copy; <a href="/">Youns</a>. Tous &nbsp;droits
   r&eacute;serv&eacute;s.</p>
