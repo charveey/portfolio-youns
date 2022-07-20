@@ -3698,7 +3698,7 @@
   var pagination_jekyll_default2 = pagination_jekyll_default;
 
   // components/shared/jekyll/social-link.jekyll.html
-  var social_link_jekyll_default = '{% if site.data.social_links.social %}\n<div class="social">\n  <ul class="social__list list-reset">\n    {% for social in site.data.social_links.social %}\n    <li class="social__item">\n      <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.icon | downcase}} icon"><i class="ion ion-logo-{{social.icon | downcase}}"></i></a>\n    </li>\n    {% endfor %}\n  </ul>\n</div>\n{% endif %}';
+  var social_link_jekyll_default = '{% if site.data.social_links.social %}\n<div class="social">\n  <ul class="social__list list-reset">\n    {% for social in site.data.social_links.social %}\n    <li class="social__item">\n      <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener" aria-label="{{social.icon | downcase}} icon"><ion-icon name="logo-{{social.icon | downcase}}"></ion-icon></a>\n    </li>\n    {% endfor %}\n  </ul>\n</div>\n{% endif %}';
 
   // bookshop-import-file:shared/jekyll/social-link.jekyll.html__bookshop_file__
   var social_link_jekyll_default2 = social_link_jekyll_default;
