@@ -5,11 +5,5 @@ menu__settings:
       url: /
     - title: Projets
       url: /projects/
-    - title: Blog
-      url: /blog/
-    - title: Pages
-      submenu:
-        - url: /about/
-          title: 'A Propos '
-        - url: /elements/
-          title: Elements
+    - title: A Propos
+      url: /about/
