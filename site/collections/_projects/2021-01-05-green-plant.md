@@ -32,3 +32,15 @@ Fille du roi du Ndongo, Nzinga na&icirc;t en 1583 alors que son royaume tente de
 L'histoire raconte que, refusant de se laisser intimider par un gouverneur qui lui proposait de s'installer par terre, elle ***aurait ordonné &agrave; une servante de s'agenouiller pour s'asseoir sur son dos***. &agrave; la hauteur de son interlocuteur. Pour gagner la confiance des Européens, Nzinga se fait baptiser elle parvient &agrave; faire signer un traité aux envahisseurs, qui l'honorons jamais. Selon les rumeurs, apr&egrave;s la mort de son fr&egrave;re qu'elle aurait empoisonné, elle devient reine &agrave; 43 ans. Elle conquiert le royaume voisin du Matamba, nomme des femmes &agrave; de hauts postes et dirige elle-m&ecirc;me les opérations militaires. ***Nzinga Mbandi, guerri&egrave;re indétr&ocirc;nable***, déjoue les tentatives de coup d'Etat et régnera pr&egrave;s de quarante ans sur l'actuel Angola. ***Elle meurt &agrave; 80 ans apr&egrave;s la signature de la paix avec les Portugais.***&nbsp;
 
 ***Elle est aujourd'hui un symbole national angolais et est revendiquée par les féministes pour sa longue résistance aux Portugais.&nbsp;***
+
+&nbsp;
+
+## Amina
+
+![](/images/amina.jpg){: width="1920" height="1920"}
+
+Appelée aussi &laquo; ***la reine guerri&egrave;re*** &raquo;, elle est la fille de la reine Bakwa Turunku de la cité-état Haoussa de Zazzau au XVl&egrave;me si&egrave;cle ( ***aujourd'hui Zaria, au nord du Nigeria*** )
+
+Le pouvoir royal au sein de Zazzau arrive par héritage &agrave; Amina.&nbsp;<br>Elle réalise différentes conqu&ecirc;tes, qui se seraient notamment déroulées dans des régions du nord de l'actuel Nigeria, ***avec une armée qui aurait compté jusque 20 000 soldats***, ce qui aurait conduit le royaume de Zazzau &agrave; &ecirc;tre l'un des plus importants en Afrique de l'Ouest durant cette période. Sous le r&egrave;gne d'Amina, le royaume de Zazzau devient riche et il rivalise en puissance avec des royaumes proches.&nbsp;
+
+Selon une légende citée par Léonora M'ana la reine Amina serait restée célibataire, mais faisait couper la t&ecirc;te de ses amants au petit matin. Elle serait morte en 1610.&nbsp;<br>***La reine Amina a inspiré le personnage de la série télévisée "Xena la princesse guerri&egrave;re"***
