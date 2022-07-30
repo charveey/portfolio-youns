@@ -15,6 +15,10 @@ $global-transition: all .35s;
 // *****************
 // Typography
 // *****************
+@font-face {
+    font-family: 'OlivarSans';
+    src: url('../site/assets/fonts/OliviarSans-Regular.otf') format('opentype');
+  }
 $base-font-size: 18px;
 $base-font-style: normal;
 $base-font-variant: normal;
@@ -24,7 +28,7 @@ $base-line-height: 1.8;
 
 // Headings
 $heading-font-weight: 900;
-$heading-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: 'OlivarSans', 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
 
 $font-size-h1:  36px;
 $font-size-h2:  28px;
