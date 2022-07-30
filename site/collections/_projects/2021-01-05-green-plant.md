@@ -23,7 +23,7 @@ Ces femmes ont fait les beaux jours de leur nation, de l'Afrique enti&egrave;re 
 
 &nbsp;
 
-## ***N'zinga***
+## ***N'ZINGA***
 
 ![Princesse N'zinga by Yous](/images/nzinga.jpg "N'Zinga Ⓒ Youns, Mai 2022"){: width="1200" height="1200"}
 
@@ -35,7 +35,7 @@ L'histoire raconte que, refusant de se laisser intimider par un gouverneur qui l
 
 &nbsp;
 
-## Amina
+## AMINA
 
 ![Amina by Youns](/images/amina.jpg "Amina  Ⓒ Youns, Mai 2022"){: width="1920" height="1920"}
 
@@ -43,8 +43,30 @@ Appelée aussi &laquo; ***la reine guerri&egrave;re*** &raquo;, elle est la fill
 
 Le pouvoir royal au sein de Zazzau arrive par héritage &agrave; Amina.&nbsp;<br>Elle réalise différentes conqu&ecirc;tes, qui se seraient notamment déroulées dans des régions du nord de l'actuel Nigeria, ***avec une armée qui aurait compté jusque 20 000 soldats***, ce qui aurait conduit le royaume de Zazzau &agrave; &ecirc;tre l'un des plus importants en Afrique de l'Ouest durant cette période. Sous le r&egrave;gne d'Amina, le royaume de Zazzau devient riche et il rivalise en puissance avec des royaumes proches.&nbsp;
 
-Selon une légende citée par Léonora M'ana la reine Amina serait restée célibataire, mais faisait couper la t&ecirc;te de ses amants au petit matin. Elle serait morte en 1610.&nbsp;<br>***La reine Amina a inspiré le personnage de la série télévisée "Xena la princesse guerri&egrave;re"***
+Selon une légende citée par Léonora M'ana, la reine Amina serait restée célibataire, mais faisait couper la t&ecirc;te de ses amants au petit matin. Elle serait morte en 1610.&nbsp;<br>***La reine Amina a inspiré le personnage de la série télévisée "Xena la princesse guerri&egrave;re"***
 
 &nbsp;
 
-***![](/images/yennenga.jpg){: width="1200" height="1200"}***
+## YENNENGA
+
+***![Yennenga by Youns](/images/yennenga.jpg "Yennenga Ⓒ Youns, Mai 2022"){: width="1200" height="1200"}***
+
+Yennenga est une princesse originaire du royaume de Dagombo, ***Elle est la fondatrice du royaume Moogo ( rassemblant le peuple mossi ) dans l'actuel Burkina Faso***.&nbsp;
+
+Fille du naba Nedega d'alors, cavali&egrave;re émérite, maniant les armes mieux que les guerriers de son p&egrave;re, elle devint un chef de guerre indispensable au vieux roi entre autres, elle dirigeait la cavalerie royale. Ne les jugeant pas suffisamment dignes de sa précieuse fille, le roi refusait tous les princes voulant l'épouser une version de son histoire sugg&egrave;re alors qu'elle se serait sauver dans la foret sur un cheval blanc et y aurait rencontré un chasseur qui deviendra son mari une autre version sugg&egrave;re qu'elle se serait retrouvée loin dans la for&ecirc;t en poursuivant des fuyards apr&egrave;s une bataille et y aurait rencontré un chasseur qui deviendra son amour. ***De cette union vient la lignée des OUEDRAOGO***&nbsp;.
+
+***Yennenga et sa légende restent tr&egrave;s présentes dans le Burkina Faso actuel, dont les Mossis sont la population majoritaire. L'embl&egrave;me nationale du pays, représenté sur les armoiries, est l'étalon blanc qui guida la princesse. Depuis 2002, elle est l'embl&egrave;me du parlement &agrave; l'Assemblée nationale burkinabé.&nbsp;***
+
+&nbsp;
+
+## ***AMANIRENAS***
+
+![Amanirenas by Youns](/images/amanirenas.jpg "Amanirenas Ⓒ Youns, Mai 2022"){: width="1200" height="1200"}
+
+***Amanirenas est le nom d'une souveraine de Kouch (période dite du royaume de Méroé dans l'actuell nord du soudan).&nbsp;***
+
+Le royaume de Koush est l'appellation que les &Eacute;gyptiens antiques ont donné au royaume qui s'établit au sud de leur pays d&egrave;s l'Ancien Empire. Ce royaume a eu une longévité peu commune, Amanirenas régna dans la deuxi&egrave;me moitié du ler si&egrave;cle avant notre &egrave;re.&nbsp;
+
+Durant cette période la reine de Kouch surnommée la "***Candace Borgne***" par les Romains parvint par la guerre et la diplomatie, &agrave; emp&ecirc;cher l'invasion de son pays par les troupes de l'Empereur romain Auguste. ***Lors d'une bataille, elle eu l'oeil arraché***. Apr&egrave;s avoir guéri, elle est retournée au combat Amanirenas a également perdu son fils le prince Akinidad dans le combat qui deviendra connu sous le nom de guerre méroïtique (d'apr&egrave;s la capitale de Kush, Méroé)&nbsp;
+
+***Exemple de bravoure, de détermination \!&nbsp;***
