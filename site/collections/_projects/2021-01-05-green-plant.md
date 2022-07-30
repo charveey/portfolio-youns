@@ -13,8 +13,6 @@ C'est suite &agrave; un post Instagram de&nbsp;[@misterimhotep](https://www.inst
 
 ![Les quatre princesses guerrières](/images/4-guerrieres.jpg "Les Rubis Africains"){: width="2800" height="1527"}
 
-&nbsp;
-
 * Tout comme le Ruby de par ***sa nature*** elles sont ***précieuses***.
 * Tout comme le Ruby de par ***sa couleur*** elles sont ***force, puissance, passion*** et ***fureur.***
 * Tout comme le Ruby de par ***sa perception*** dans l'imaginaire social, elles sont symbole de ***beauté de l'&acirc;me*** et de ***sagesse.***
@@ -23,6 +21,14 @@ Reines et princesse mais surtout guerri&egrave;res. ***AMANIRENAS, AMINA, NZINGA
 
 Ces femmes ont fait les beaux jours de leur nation, de l'Afrique enti&egrave;re en prenant fermement en main leur destin et celui de tout un peuple.&nbsp;<br>***Pourquoi pas vous ?&nbsp;***
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+&nbsp;
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+## ***N'zinga***
+
+![Princesse N'zinga](/images/nzinga.jpg "N'zinga"){: width="1200" height="1200"}
+
+Fille du roi du Ndongo, Nzinga na&icirc;t en 1583 alors que son royaume tente de résister &agrave; l'envahisseur portugais. D&egrave;s son plus jeune &acirc;ge, son p&egrave;re l'emm&egrave;ne sur le champ de bataille et &agrave; la chasse réservée aux hommes. C'est pourtant son fr&egrave;re qui succ&egrave;de au roi et fait tuer le fils de Nzinga par peur qu'il ne prenne le tr&ocirc;ne.&nbsp;
+
+L'histoire raconte que, refusant de se laisser intimider par un gouverneur qui lui proposait de s'installer par terre, elle ***aurait ordonné &agrave; une servante de s'agenouiller pour s'asseoir sur son dos***. &agrave; la hauteur de son interlocuteur. Pour gagner la confiance des Européens, Nzinga se fait baptiser elle parvient &agrave; faire signer un traité aux envahisseurs, qui l'honorons jamais. Selon les rumeurs, apr&egrave;s la mort de son fr&egrave;re qu'elle aurait empoisonné, elle devient reine &agrave; 43 ans. Elle conquiert le royaume voisin du Matamba, nomme des femmes &agrave; de hauts postes et dirige elle-m&ecirc;me les opérations militaires. ***Nzinga Mbandi, guerri&egrave;re indétr&ocirc;nable***, déjoue les tentatives de coup d'Etat et régnera pr&egrave;s de quarante ans sur l'actuel Angola. ***Elle meurt &agrave; 80 ans apr&egrave;s la signature de la paix avec les Portugais.***&nbsp;
+
+***Elle est aujourd'hui un symbole national angolais et est revendiquée par les féministes pour sa longue résistance aux Portugais.&nbsp;***
