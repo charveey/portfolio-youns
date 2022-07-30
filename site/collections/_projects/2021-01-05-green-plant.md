@@ -15,11 +15,11 @@ C'est suite &agrave; un post Instagram de[@misterimhotep](https://www.instagram.
 
 &nbsp;
 
-Tout comme le Ruby de par ***sa*** ***nature ***elles sont ***précieuses***.
+Tout comme le Ruby de par ***sa nature*** elles sont ***précieuses***.
 
-Tout comme le Ruby de par ***sa couleur*** elles sont ***force***,&nbsp;***puissance***, ***passion ***et ***fureur ***Tout comme le Ruby de par ***sa perception*** dans l'imaginaire social, elles sont symbole de ***beauté de l'&acirc;me*** et de ***sagesse.***
+Tout comme le Ruby de par ***sa couleur*** elles sont ***force, puissance, passion*** et ***fureur***Tout comme le Ruby de par ***sa perception*** dans l'imaginaire social, elles sont symbole de ***beauté de l'&acirc;me*** et de ***sagesse.***
 
-Reines et princesse mais ***surtout guerri&egrave;res. AMANIRENAS, AMINA, NZINGA ***et ***YENNENGA*** sont des guerri&egrave;res que &laquo; ***vous devriez connaitre*** &raquo; &nbsp;spécifiquement vous jeunes filles.
+Reines et princesse mais surtout guerri&egrave;res. ***AMANIRENAS, AMINA, NZINGA*** et&nbsp;***YENNENGA*** sont des guerri&egrave;res que &laquo; ***vous devriez connaitre*** &raquo; &nbsp;spécifiquement vous jeunes filles.
 
 Ces femmes ont fait les beaux jours de leur nation, de l'Afrique enti&egrave;re en prenant fermement en main leur destin et celui de tout un peuple.&nbsp;<br>***Pourquoi pas vous ?&nbsp;***
 
