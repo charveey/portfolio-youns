@@ -11,7 +11,7 @@ C'est suite &agrave; un post Instagram de&nbsp;[@misterimhotep](https://www.inst
 
 # LES RUBIS AFRICAINS
 
-![Les quatre princesses guerrières](/images/4-guerrieres.jpg "Les Rubis Africains"){: width="2800" height="1527"}
+![Les quatre princesses guerrières by Youns](/images/4-guerrieres.jpg "Les Rubis Africains Ⓒ Youns, Mai 2022"){: width="2800" height="1527"}
 
 * Tout comme le Ruby de par ***sa nature*** elles sont ***précieuses***.
 * Tout comme le Ruby de par ***sa couleur*** elles sont ***force, puissance, passion*** et ***fureur.***
@@ -25,7 +25,7 @@ Ces femmes ont fait les beaux jours de leur nation, de l'Afrique enti&egrave;re 
 
 ## ***N'zinga***
 
-![Princesse N'zinga](/images/nzinga.jpg "N'zinga"){: width="1200" height="1200"}
+![Princesse N'zinga by Yous](/images/nzinga.jpg "N'Zinga Ⓒ Youns, Mai 2022"){: width="1200" height="1200"}
 
 Fille du roi du Ndongo, Nzinga na&icirc;t en 1583 alors que son royaume tente de résister &agrave; l'envahisseur portugais. D&egrave;s son plus jeune &acirc;ge, son p&egrave;re l'emm&egrave;ne sur le champ de bataille et &agrave; la chasse réservée aux hommes. C'est pourtant son fr&egrave;re qui succ&egrave;de au roi et fait tuer le fils de Nzinga par peur qu'il ne prenne le tr&ocirc;ne.&nbsp;
 
@@ -37,10 +37,14 @@ L'histoire raconte que, refusant de se laisser intimider par un gouverneur qui l
 
 ## Amina
 
-![](/images/amina.jpg){: width="1920" height="1920"}
+![Amina by Youns](/images/amina.jpg "Amina  Ⓒ Youns, Mai 2022"){: width="1920" height="1920"}
 
 Appelée aussi &laquo; ***la reine guerri&egrave;re*** &raquo;, elle est la fille de la reine Bakwa Turunku de la cité-état Haoussa de Zazzau au XVl&egrave;me si&egrave;cle ( ***aujourd'hui Zaria, au nord du Nigeria*** )
 
 Le pouvoir royal au sein de Zazzau arrive par héritage &agrave; Amina.&nbsp;<br>Elle réalise différentes conqu&ecirc;tes, qui se seraient notamment déroulées dans des régions du nord de l'actuel Nigeria, ***avec une armée qui aurait compté jusque 20 000 soldats***, ce qui aurait conduit le royaume de Zazzau &agrave; &ecirc;tre l'un des plus importants en Afrique de l'Ouest durant cette période. Sous le r&egrave;gne d'Amina, le royaume de Zazzau devient riche et il rivalise en puissance avec des royaumes proches.&nbsp;
 
 Selon une légende citée par Léonora M'ana la reine Amina serait restée célibataire, mais faisait couper la t&ecirc;te de ses amants au petit matin. Elle serait morte en 1610.&nbsp;<br>***La reine Amina a inspiré le personnage de la série télévisée "Xena la princesse guerri&egrave;re"***
+
+&nbsp;
+
+***![](/images/yennenga.jpg){: width="1200" height="1200"}***
