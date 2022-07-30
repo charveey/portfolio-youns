@@ -70,3 +70,7 @@ Le royaume de Koush est l'appellation que les &Eacute;gyptiens antiques ont donn
 Durant cette période la reine de Kouch surnommée la "***Candace Borgne***" par les Romains parvint par la guerre et la diplomatie, &agrave; emp&ecirc;cher l'invasion de son pays par les troupes de l'Empereur romain Auguste. ***Lors d'une bataille, elle eu l'oeil arraché***. Apr&egrave;s avoir guéri, elle est retournée au combat Amanirenas a également perdu son fils le prince Akinidad dans le combat qui deviendra connu sous le nom de guerre méroïtique (d'apr&egrave;s la capitale de Kush, Méroé)&nbsp;
 
 ***Exemple de bravoure, de détermination \!&nbsp;***
+
+&nbsp;
+
+Direction artistique:&nbsp;***@younous\_herve / @mwayuma***<br>Accesoires:&nbsp;***@lyanel\_handmade / @jewellery\_by\_d***<br>Make-up Artists: ***@anemaswork / @kadhykoro***<br>Models: ***@ablapokou34 / @bvvnana / @senpaiobizawa***<br>Assistants: ***@pimiipic / @stephane\_lela\_kouassi\_slk / @onesimekofti / @its\_me\_adjaraa\_kone***<br>Rédacteur: ***@im\_kveen***&nbsp;<br>Studio: M'studio photographie ( cocody blockhaus )&nbsp;<br>Photographe, retouche, lumi&egrave;re, bodypanting : ***@younous\_herve***<br>&nbsp;
