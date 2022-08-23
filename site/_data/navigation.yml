@@ -5,5 +5,7 @@ menu__settings:
       url: /
     - title: Projets
       url: /projects/
+    - title: Tips & Tutos
+      url: /videos
     - title: A Propos
       url: /about/
