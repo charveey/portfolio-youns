@@ -4,6 +4,8 @@ footer_menu__settings:
       url: /
     - title: Projets
       url: /projects/
+    - title: Tips
+      url: /blog/
     - title: Tips & Tutos
       url: /videos
     - title: A Propos
