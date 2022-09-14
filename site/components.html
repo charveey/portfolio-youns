@@ -10,5 +10,5 @@ published: false
 {% if jekyll.environment == "production" %}
     {% bookshop_browser /js/bookshop-hosted.js %}
 {% else %}
-    {% bookshop_browser :6086 %}
+    {% bookshop_component_browser %}
 {% endif %}
