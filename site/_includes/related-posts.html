@@ -25,12 +25,12 @@
         <div class="container__inner">
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">You may also like</h2>
+              <h2 class="section__title">Voir aussi</h2>
               <a class="section__link" href="{{ '/blog' | relative_url }}">
                 {% if page.tags.size >= 1 %}
                 {% for tag in page.tags %}
                   {% if forloop.index == 1 %}
-                    <a href="{{ site.baseurl }}/tags#{{ tag }}" class="section__link related-tag">See all<span> {{ tag }}</span> <i class="ion ion-md-arrow-forward"></i></a>
+                    <a href="{{ site.baseurl }}/tags#{{ tag }}" class="section__link related-tag">Tout voir<span> {{ tag }}</span> <i class="ion ion-md-arrow-forward"></i></a>
                   {% endif %}
                 {% endfor %}
               {% endif %}

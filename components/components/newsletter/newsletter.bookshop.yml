@@ -10,10 +10,10 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  newsletter_title: ""
-  newsletter_description: ""
+  newsletter_title: "S'inscrire à la newsletter"
+  newsletter_description: "Ne ratez pas mes astuces, tutoriels et nouvelles publications !"
   newsletter_identifier: ""
-  newsletter_button: ""
+  newsletter_button: "S'inscrire"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
