@@ -6,6 +6,6 @@ footer_menu__settings:
       url: /projects/
     - title: Tips & Tutos
       url: /blog/
-    - title: A Propos
+    - title: À Propos
       url: /about/
 copyright_text_html: <p>2022 &copy; <a href="/">Youns</a>. Tous droits r&eacute;serv&eacute;s.</p>
