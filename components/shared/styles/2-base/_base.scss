@@ -8,6 +8,9 @@ body {
   line-height: $base-line-height;
   color: $heading-font-color;
   background-color: $background-color;
+  //background-image: radial-gradient(#e0e1e6, #4b1881);
+  background-image: url( '/images/motif.svg' );
+  background-size: 150% auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -39,6 +42,7 @@ body {
 *::selection {
   color: $white;
   background-color: $primary-color;
+  
 }
 
 h1,
