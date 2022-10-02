@@ -1,6 +1,6 @@
 footer_menu__settings:
   menu__items:
-    - title: Acceuil
+    - title: Accueil
       url: /
     - title: Projets
       url: /projects/
