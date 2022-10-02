@@ -73,7 +73,7 @@
     border-radius: 8px;
     overflow: hidden;
     color: $white;
-    background: $dark;
+    background: $accent;
 
     &:hover {
       &:before {
@@ -94,7 +94,7 @@
       border-radius: 8px;
       will-change: transform;
       transition: opacity 0.35s;
-      color: $dark;
+      color: $white;
       background: $white;
     }
 
@@ -111,7 +111,7 @@
 
     a {
       &:hover {
-        color: $text-color;
+        color: $accent;
       }
     }
 

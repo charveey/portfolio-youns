@@ -7,6 +7,16 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    padding-left: 35%;
+    position: absolute;
+    @media only screen and (max-width: $desktop) {
+      position: absolute;
+    }
+    @media only screen and (max-width: $mobile) {
+      padding-left: 20%;
+      position: absolute;
+      }
+    
   }
 
   .social__item {
@@ -41,7 +51,7 @@
       height: 0;
       padding-bottom: 100%;
       border-radius: 50%;
-      background: $primary-color;
+      background: $accent;
       transition: all .25s;
     }
   }
