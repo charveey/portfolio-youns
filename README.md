@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c2d1b4d-646b-426c-a890-db6c1ae060dc/deploy-status?branch=main)](https://app.netlify.com/sites/youns/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c2d1b4d-646b-426c-a890-db6c1ae060dc/deploy-status?branch=live)](https://app.netlify.com/sites/youns/deploys)
 
 # Vonge
 
