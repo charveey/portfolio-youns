@@ -20,10 +20,12 @@
   <meta property="og:image" content="{% if page.url == "/" %}{{ site.data.general_settings.social_media_share_image | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}">
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <!--link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet"-->
 
   <!-- Ionicons -->
-  <link href="https://unpkg.com/ionicons@4.6.4-1/dist/css/ionicons.min.css" rel="stylesheet">
+  <!--link rel="preload" href="https://unpkg.com/ionicons@4.6.4-1/dist/css/ionicons.min.css" as="style"-->
+  <link rel="stylesheet" href="https://unpkg.com/ionicons@4.6.4-1/dist/css/ionicons.min.css" media="print" onload="this.media='all'">
 
-  <link rel="stylesheet" href="/assets/main.css">
+  <!--link rel="preload" href="/assets/main.css" as="style"-->
+  <link rel="stylesheet" href="/assets/main.css" media="print" onload="this.media='all'">
 </head>
