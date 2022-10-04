@@ -17,7 +17,9 @@ $global-transition: all .35s;
 // *****************
 @font-face {
     font-family: 'OlivarSans';
-    src: url('../assets/fonts/OliviarSans-Regular.woff2') format('woff2');
+    src: url('../assets/fonts/OliviarSans-Regular.woff2');
+    format: ('woff2');
+    font-display: swap;
   }
 $base-font-size: 18px;
 $base-font-style: normal;
