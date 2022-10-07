@@ -20,7 +20,12 @@
   <meta property="og:image" content="{% if page.url == "/" %}{{ site.data.general_settings.social_media_share_image | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}">
 
   <!-- Ionicons -->
-  <link href="https://unpkg.com/ionicons@4.6.4-1/dist/css/ionicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/ionicons@4.6.4-1/dist/css/ionicons.min.css">
 
+   <!-- Optimize CSS loading -->
+  <link rel="preload" href="/assets/main.css" as="style">
   <link rel="stylesheet" href="/assets/main.css">
+
+   <!-- Preload fonts -->
+  <link rel="preload" href="/assets/fonts/OliviarSans-Regular.woff2" as="font" type="font/woff2" crossorigin />
 </head>

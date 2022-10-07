@@ -35,7 +35,7 @@
 			transition: all .4s ease 0s;
 			opacity: 0;
 			visibility: hidden;
-			background: linear-gradient(360deg, $primary-color 0%, rgba($secondary-color, 0.3) 50.95%);
+			background: linear-gradient(360deg, $primary-color 0%, rgba($accent, 0.3) 50.95%);
 		}
 
 		img {
