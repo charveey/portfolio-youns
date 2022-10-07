@@ -2,7 +2,7 @@
 date: 2021-08-16 12:00:00
 title: Moi, ma culture.
 subtitle: Photographie, Photo manipulation, Art visuel
-image: /images/moimaculture/img-6375.jpg
+image: /images/moimaculture/IMG_6375.jpg
 ---
 ​​​​​​![Qui je suis by YOUNS](/images/moimaculture/IMG_6422.jpg){: width="5616" height="3744"}
 
