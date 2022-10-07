@@ -10,6 +10,6 @@ Mawu est l'appellation de la divinité créatrice dans la religion vaudou chez l
 
 Grande déesse-m&egrave;re du Vaudou, symbole de douceur et de sagesse, associée &agrave; la lune, elle nous invite &agrave; l’harmonie.
 
-Mod&egrave;le [@a.black.with.colored.hair](https://www.instagram.com/a_black_with_colored_hair/)
+Mod&egrave;le ***[@a.black.with.colored.hair](https://www.instagram.com/a_black_with_colored_hair/)***
 
-Photographie, Direction artistique, Direction photo, Retouche [@YOUNS](https://www.instagram.com/younous_herve/)
+Photographie, Direction artistique, Direction photo, Retouche ***[@YOUNS](https://www.instagram.com/younous_herve/)***
