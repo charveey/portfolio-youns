@@ -22,4 +22,4 @@ image: /images/JEUXOLYMPIQUES/VISUEL-JO-2040-lite.jpg
 
 Ceci est une proposition de photographies pour la campagne fictive des premiers jeux olympiques en Afrique. ce projet a été présenté lors de la 3&egrave;me édition du GRAND TOURNOI CREATIF organisé par NUMERIS STUDIO &agrave; ABIDJAN en novembre 2021 et a valu le premier prix de la catégorie photographie créative.
 
-Direction artistique, Direction photo, Retouche : @YOUNS
+Direction artistique, Direction photo, Retouche : [***@YOUNS***](https://www.instagram.com/younous_herve/){: target="_blank" rel="noopener"}
