@@ -4,7 +4,7 @@ title: MAWU
 subtitle: Photographie, Retouche artistique, Art visuel
 image: /images/MAWU/MAWU-LISA-FINAL.jpg
 ---
-![](/images/MAWU/MAWU-LISA-FINAL.jpg){: width="2981" height="2981"}
+![MAWU by YOUNS](/images/MAWU/MAWU-LISA-FINAL.jpg){: width="2981" height="2981"}
 
 Mawu est l'appellation de la divinité créatrice dans la religion vaudou chez les peuples éwé et mina du Togo et du Bénin en Afrique de l'Ouest. Mawu signifie ce que l'on ne peut pas dépasser. Avec son jumeau et "mari" Lisa , ils sont les enfants de nana bukulu le dieu supr&ecirc;me vodou. Mawu et Lisa sont l'&ecirc;tre supr&ecirc;me chez les peuples Ewés et Fon, qui ont créé la terre, les &ecirc;tres vivants et engendré les autres vodoun. Mawu est une femme. Elle est associée &agrave; Lisa, qui est un homme, et également co-responsable de la Création.
 
