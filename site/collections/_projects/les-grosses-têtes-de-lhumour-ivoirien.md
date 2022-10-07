@@ -16,6 +16,6 @@ image: /images/lesgrossestetes/tetes.jpg
 
 ![Guyzo by YOUNS](/images/lesgrossestetes/GUYZO.jpg){: width="3500" height="3500"}
 
-Mod&egrave;les : @clentelex @dr\_nejycus @guyzocomedienhumouriste @charrmingo
+Mod&egrave;les : [***@clentelex***](https://www.instagram.com/clentelex/) [***@dr\_nejycus***](https://www.instagram.com/dr_nejycus/) [***@guyzocomedienhumouriste***](https://www.instagram.com/guyzocomedienhumoriste/) [***@charrmingo***](https://www.instagram.com/charrmingo/)
 
-Photographie, Direction photo, Retouche : @YOUNS&nbsp;
+Photographie, Direction photo, Retouche : ***[@YOUNS](https://www.instagram.com/younous_herve/){: target="_blank" rel="noopener"}&nbsp;***
