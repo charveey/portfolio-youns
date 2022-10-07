@@ -1,5 +1,5 @@
 ---
-date: 2021-01-05 02:20:35
+date: 2022-05-22 12:00:00
 title: 04 GUERRIERES AFRICAINES QUE VOUS DEVRIEZ CONNAITRE
 subtitle: 'Art visuel, Photographie, Retouche artistique, Photo manipulation '
 image: /images/project-9.jpg
