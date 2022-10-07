@@ -1,7 +1,7 @@
 ---
 date: 2022-05-22 12:00:00
 title: 04 GUERRIERES AFRICAINES QUE VOUS DEVRIEZ CONNAITRE
-subtitle: 'Art visuel, Photographie, Retouche artistique, Photo manipulation '
+subtitle: Photographie, Retouche artistique, Photo manipulation, Art visuel
 image: /images/project-9.jpg
 ---
 C'est suite &agrave; un post Instagram de&nbsp;[@misterimhotep](https://www.instagram.com/misterimhotep){: target="_blank" rel="noopener"} sur le th&egrave;me &laquo; 05 guerri&egrave;res africaines que vous devriez conna&icirc;tre &raquo; que j'ai décidé &agrave; mon tour de représenter certaines d'entre elles.&nbsp;<br>Cette initiative part surtout et essentiellement du fait que je veuille mettre en valeur la femme qui pour une fois n'est pas que &laquo; belle, reine, m&egrave;re ou encore une simple lead &raquo;. Si la société africaine tant d'autrefois que d'aujourd'hui tend &agrave; reléguer la femme au second plan, il est d'autant plus louable de saluer les efforts consentis par bon nombre de personnes &agrave; travers le monde pour **une égalité du genre**.&nbsp;<br>Par l'histoire de ces différentes reines et princesse, mais**guerri&egrave;res surtout**, le veux inspirer le monde et surtout la gente féminine &agrave; voir en elle tous les attributs et valeurs nécessaires pour se hisser &agrave; la place qui leur ait d&ucirc; dans la société et &agrave; écrire l'histoire.&nbsp;<br>**Car elles en sont capables tout comme ces femmes qui ont marqué l'histoire de l'Afrique.&nbsp;**
@@ -72,4 +72,4 @@ Durant cette période la reine de Kouch surnommée la "**Candace Borgne**" par l
 
 &nbsp;
 
-Direction artistique:&nbsp;***@YOUNS / @mwayuma***<br>Accessoires:&nbsp;***@lyanel\_handmade / @jewellery\_by\_d***<br>Make-up Artists: ***@anemaswork / @kadhykoro***<br>Models: ***@ablapokou34 / @bvvnana / @senpaiobizawa***<br>Assistants: ***@pimiipic / @stephane\_lela\_kouassi\_slk / @onesimekofti / @its\_me\_adjaraa\_kone***<br>Rédacteur: ***@im\_kveen***&nbsp;<br>Studio: M'studio photographie ( Cocody blockhaus )&nbsp;<br>Direction photo, Photographe, Retouche : ***@YOUNS***<br>&nbsp;
+Direction artistique:&nbsp;***[@YOUNS](https://www.instagram.com/younous_herve/) / [@mwayuma](https://www.instagram.com/mwayuma/)***<br>Accessoires:&nbsp;***[@lyanel\_handmad](https://www.instagram.com/lyanel_handmade/)e / [@jewellery\_by\_d](https://www.instagram.com/jewellery_by_d/)***<br>Make-up Artists: ***[@anemaswork](https://www.instagram.com/anemaswork/) / @kadhykoro***<br>Mod&egrave;les: ***[@ablapokou34](https://www.instagram.com/ablapokou34/) / [@bvvnana](https://www.instagram.com/bvvnana/) / [@senpaiobizawa](https://www.instagram.com/senpaiobizawa/)***<br>Studio: M'studio photographie ( Cocody blockhaus )&nbsp;<br>Direction photo, Photographe, Retouche :[***@YOUNS***](https://www.instagram.com/younous_herve/){: target="_blank" rel="noopener"}<br>&nbsp;
