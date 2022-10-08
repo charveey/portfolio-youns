@@ -6,6 +6,6 @@ menu__settings:
     - title: Projets
       url: /projects/
     - title: Vidéos
-      url: /blog/
+      url: /videos/
     - title: À Propos
       url: /about/

@@ -4,8 +4,8 @@ footer_menu__settings:
       url: /
     - title: Projets
       url: /projects/
-    - title: Tips & Tutos
-      url: /blog/
+    - title: Vidéos
+      url: /videos/
     - title: À Propos
       url: /about/
 copyright_text_html: <p>2022 &copy; <a href="/">Youns</a>. Tous droits r&eacute;serv&eacute;s.</p>

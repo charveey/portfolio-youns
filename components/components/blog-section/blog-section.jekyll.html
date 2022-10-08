@@ -16,7 +16,7 @@
           {% if include.show_posts %}
           <div class="row">
             {% if site.posts.size > 0 %}
-              {% for post in site.posts offset:0 limit:3 %}
+              {% for post in site.posts reversed offset:0 limit:3 %}
                 {% bookshop blog-card post=post %}
               {% endfor %}
             {% endif %}
