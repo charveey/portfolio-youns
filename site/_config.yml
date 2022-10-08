@@ -1,5 +1,9 @@
 title: Vonge
 
+url: "https://www.theyouns.com"
+sass:
+  style: compressed
+
 plugins:
   - jekyll-bookshop
   - jekyll-sitemap
