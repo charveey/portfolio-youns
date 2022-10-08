@@ -1,4 +1,15 @@
-title: Vonge
+title: YOUNS
+email: contact@theyouns.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Bienvenue sur ma planète cher humain !
+baseurl: "" # the subpath of your site if applicable, e.g. /blog
+url: "https://www.theyouns.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Permalink format (/blog/ is ignored for pages)
+permalink: /blog/:title
+
+sass:
+  style: compressed
 
 plugins:
   - jekyll-bookshop
