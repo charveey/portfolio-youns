@@ -1,6 +1,5 @@
 [build]
   command = "npm run install-jekyll && bundle exec jekyll build --trace --source site"
-  functions = "functions/"
   publish = "_site/"
 
 [functions]
