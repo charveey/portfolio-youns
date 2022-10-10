@@ -1,7 +1,7 @@
 require("dotenv").config()
 
 import fetch from 'node-fetch';
-const { BUTTONDOWN_API_KEY } = process.env
+const { EMAIL_TOKEN } = process.env
 
 exports.handler = async event => {
   const payload = JSON.parse(event.body).payload
