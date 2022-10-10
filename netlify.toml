@@ -1,0 +1,7 @@
+[build]
+  command = "npm run install-jekyll && bundle exec jekyll build --trace --source site"
+  publish = "_site/"
+
+[functions]
+  functions = "functions/"
+  node_bundler = "esbuild"
