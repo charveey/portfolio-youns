@@ -1,6 +1,7 @@
 title: Vonge
 
 url: "https://www.theyouns.com"
+timezone: Africa/Abidjan
 sass:
   style: compressed
 
