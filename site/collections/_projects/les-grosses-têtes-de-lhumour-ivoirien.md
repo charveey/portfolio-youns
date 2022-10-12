@@ -10,7 +10,7 @@ image: /images/lesgrossestetes/tetes.jpg
 
 ![Charmingo by Youns](/images/lesgrossestetes/CHARMINGO.jpg "Charmingo"){: width="3500" height="3500"}
 
-![Nejy by Youns](/images/lesgrossestetes/NEJY.jpg "Dr Nejycus"){: width="3500" height="3500"}
+![Dr Nejycus by Youns](/images/lesgrossestetes/NEJY.jpg "Dr Nejycus"){: width="3500" height="3500"}
 
 ![Zokou by YOUNS](/images/lesgrossestetes/GUIZO.jpg "Zokou"){: width="3500" height="3500"}
 
