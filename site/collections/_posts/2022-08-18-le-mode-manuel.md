@@ -1,6 +1,6 @@
 ---
-date: 2022-10-13 12:00:00
-title: 'Les bases de la photographie'
+date: 2022-10-14 18:00:00
+title: Comment faire des photos comme un pro grâce au mode manuel
 description: Maîtriser le mode manuel de votre appareil photo numérique
 tags:
   - photographie
