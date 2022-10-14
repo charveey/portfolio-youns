@@ -5,8 +5,9 @@ description: Maîtriser le mode manuel de votre appareil photo numérique
 tags:
   - photographie
   - tuto
-image: /images/post-5.jpg
+image: /images/videos/mode-manuel-cover.jpg
+youtubeId: dQw4w9WgXcQ
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0"></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
