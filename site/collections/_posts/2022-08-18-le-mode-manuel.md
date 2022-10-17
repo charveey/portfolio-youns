@@ -1,12 +1,12 @@
 ---
-date: 2022-10-14 18:00:00
+date: 2022-10-14 19:55:00
 title: Comment faire des photos comme un pro grâce au mode manuel
 description: Maîtriser le mode manuel de votre appareil photo numérique
 tags:
   - photographie
   - tuto
 image: /images/videos/mode-manuel-cover.jpg
-youtubeId: dQw4w9WgXcQ
+youtubeId: PPm2K_HKMpE
 ---
 Des puristes aux professionnels, tous les photographes sérieux connaissent ce secret : **le mode manuel**.
 
