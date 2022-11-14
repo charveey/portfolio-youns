@@ -1,5 +1,5 @@
 ---
-date: 2022-11-10 18:00:00
+date: 2022-11-16 18:00:00
 title: 'YÔRÔ VIBES #01 – La mer dans verre'
 description: Découvre les expressions cultes de DJ Arafat en image
 tags:
