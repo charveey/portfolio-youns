@@ -7,7 +7,7 @@ tags:
   - photomontage
   - artwork
 image: /images/videos/vibes-1-cover.jpg
-youtubeId: 0pA_YIHNB6E
+youtubeId: rePWhdTmpx8
 ---
 &nbsp;Vibe \#01 : "La mer dans verre"
 
