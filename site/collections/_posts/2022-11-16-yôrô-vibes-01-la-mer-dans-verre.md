@@ -10,4 +10,4 @@ image: /images/videos/01_Plan-de-travail-1.jpg
 ---
 &nbsp;Vibe \#01 : "La mer dans verre"
 
-<iframe width="480" height="360" src="https://youtu.be/0pA_YIHNB6E" frameborder="0"></iframe>
+<iframe width="480" height="360" src="https://youtu.be/rePWhdTmpx8" frameborder="0"></iframe>
