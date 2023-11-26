@@ -2,7 +2,7 @@
 date: 2022-11-27 22:02:00
 title: YOUNS x CANEX 2022
 subtitle: Evènementiel
-image: /uploads/canex-x-youns-9.jpg
+image: /uploads/canex-x-youns-2.jpg
 ---
 ![](/uploads/canex-x-youns-2.jpg){: width="1620" height="1080"}
 
