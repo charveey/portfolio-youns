@@ -4,7 +4,7 @@ title: YOUNS x KD's Brunch
 subtitle: Evènementiel
 image: /images/portfolio/kdsbrunch04.jpg
 ---
-![by YOUNS](/images/portfolio/kdsbrunch00-1.jpg){: width="1620" height="1080"}
+![by YOUNS](/images/portfolio/kdsbrunch00.jpg){: width="1620" height="1080"}
 
 ![by YOUNS](/images/portfolio/kdsbrunch01.jpg){: width="1620" height="1080"}
 
