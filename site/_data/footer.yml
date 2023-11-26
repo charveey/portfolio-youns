@@ -2,7 +2,7 @@ footer_menu__settings:
   menu__items:
     - title: Accueil
       url: /
-    - title: Projets
+    - title: Portefolio
       url: /projects/
     - title: Vidéos
       url: /videos/
